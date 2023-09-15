@@ -1,0 +1,14 @@
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 1200px;
+    margin: 0 auto;
+}
+:root{
+    --accent-color: #2196F3;
+    --second-text-color: #757575;
+    --main-color: #212121;
+    --main-white-color: #FFFFFF;
+    --address-footer-color: #FFFFFF99;
+    
+}
