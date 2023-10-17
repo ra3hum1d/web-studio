@@ -138,13 +138,6 @@ color: var(--black-main);
 
 }   
 
-.photo-portfolio{
-
-}
-
-.portfolio-list-img{
-
-}
 
 .features-list-wrap{
     padding-left: 24px;
@@ -180,9 +173,6 @@ color: var(--black-main);
     background: var(--footer-bg);
 }
 
-.logo{
-
-}
 
 .logo-footer{
     color: var(--white-main);
@@ -190,9 +180,6 @@ color: var(--black-main);
     
 }
 
-.address{
-
-}
 
 .address-list{
     padding-top: 20px;
